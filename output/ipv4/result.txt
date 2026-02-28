@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-02-28 06:25:23,http://satellitepull.cnr.cn/live/wxgdws/playlist.m3u8
+2026-02-28 18:25:52,http://satellitepull.cnr.cn/live/wxgdws/playlist.m3u8
 
 📺央视频道,#genre#
 
@@ -31,7 +31,6 @@
 北京财经,https://wstvcpudali.v.myalicdn.com/wstvcpud/udrmbtv5_1/index.m3u8?adapt=0&BR=audio
 
 ☘️上海频道,#genre#
-第一财经,http://a1live.livecdn.yicai.com/live/radio_tv.m3u8
 都市剧场,https://satellitepull.cnr.cn/live/wxcqxwgb/playlist.m3u8
 
 ☘️重庆频道,#genre#
